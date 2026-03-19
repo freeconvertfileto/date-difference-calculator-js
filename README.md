@@ -2,7 +2,7 @@
 
 Calculate the exact difference between two dates in years, months, days, weeks, hours, and minutes, with a swap button for reversed comparison, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/date-difference-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/date-difference-calculator-online
 
 ## How It Works
 
